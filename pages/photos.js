@@ -1,6 +1,6 @@
 import HeadInfo from '../components/HeadInfo'
 import Image    from 'next/image'
-import photosStyle from '../styles/Photos.module.scss'
+import photosStyle from '../styles/Photos.module.css'
 import Link from 'next/link'
 
 const photos = ({ photos }) => {
